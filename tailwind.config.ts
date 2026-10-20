@@ -2,7 +2,7 @@ import type { Config } from "tailwindcss"
 
 /**
  * Theme mirrors the CSS custom properties in globals.css, which are themselves
- * adapted from the `hubtown` Volta capture. Change a value there, not here —
+ * adapted from the `hubtown` Novus capture. Change a value there, not here —
  * these entries only expose the tokens to Tailwind's utility generator.
  */
 const config: Config = {

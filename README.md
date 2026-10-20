@@ -67,7 +67,7 @@ question names the content path it fills.
 
 ## Design system
 
-The visual direction is adapted from the `hubtown` capture in the Volta template
+The visual direction is adapted from the `hubtown` capture in the Novus template
 library — its token system, not its markup, imagery or copy.
 
 | Token | Value | Source |
